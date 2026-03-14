@@ -1,0 +1,22 @@
+{
+  "6756790622": {
+    "user_id": 6756790622,
+    "channel_id": "@gonzobeats",
+    "channel_username": "@gonzobeats",
+    "subscription_expires": "2026-04-12T21:55:14.328868",
+    "is_active": true,
+    "created_at": "2026-03-13T21:55:14.328868",
+    "show_bpm": true,
+    "show_key": true,
+    "show_genre": true,
+    "show_mood": false,
+    "show_similar_artist": false,
+    "genres": [
+      "Hip-Hop",
+      "Trap",
+      "R&B",
+      "Drill",
+      "Boom Bap"
+    ]
+  }
+}
